@@ -1,0 +1,2 @@
+# how-to-add-the-built-in-and-custom-toolbar-items-to-a-blazor-gantt-chart
+In this quick-start project, you can learn how to add the built-in and custom toolbar items to a Syncfusion Blazor Gantt Chart in a Blazor WebAssembly app. You’ll also learn how to add few built-in toolbar items, enable, and disable toolbar items at runtime. Also, you can learn how to add a custom toolbar item in the Gantt Chart.
